@@ -1,5 +1,5 @@
 # 1. Basic Dictionary
-student = {"name": "Alice", "age": 20, "grade": "A"}
+student = {"name": "Ankur", "age": 20, "grade": "A"}
 
 print(student)
 # Keys, Values, Items
