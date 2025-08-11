@@ -68,6 +68,7 @@ add_student(2, "Bhavna")
 add_grade(1, "Math")
 add_grade(1, "Science")
 add_grade(2, "English")
+add_grade(3, "English")
 
 display_students()
 
